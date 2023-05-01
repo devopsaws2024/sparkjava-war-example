@@ -1,0 +1,22 @@
+IT :  Global Interaction Tool / Global Tracking tool/system.
+
+Git is Distributed version control system which provides flexibility of proper tracking the changes & also  provides the benefit of memory optimization.
+
+================================================================================================================
+why GIT ?
+
+What is Version Control system ?  - Managing unique versions done across the file changes & also provide proper tracking on files.
+
+Why VCS ? & Benefits of VCS?
+
+* Tracking :
+                        * Author Details  - Email/Userid
+                        * Date & Time modified  - Every person's modified date & time
+                        * Size of file/directory  - Every person change in size is record
+                        * Tracking is done -  who added/modified/deleted -  which line/word/character
+
+
+* Memory Optimization: login-feature of Ecommerce Website
+  
+DAY-1 : login-feature.java -> 1 GB -> ( compiled/execution/bundle -jar/war, testing) -> stable/working code.
+        Record the changes via commit_id  => Hexa decimal code => ncjfb94n0f=dn9bc82b!mf03bn0hv
