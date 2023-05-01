@@ -1,0 +1,4 @@
+FORK:  fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+==========================================================================================================
+Pull Request :
+Pull requests help you collaborate on code with other people. As pull requests are created, they’ll appear here in a searchable and filterable list.
